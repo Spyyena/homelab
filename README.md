@@ -1,3 +1,8 @@
+#temp Proxmox tips
+select container > resources > mount point 
+Select tank or flash and add a local path. The file system will show up on the root of the container as whatever you put in the mount point.
+
+
 # My Homelab Setup
 Homelab stacks, templates, and more fun resources! This is a *work in progress*. I still have a ton to update and add.
 
