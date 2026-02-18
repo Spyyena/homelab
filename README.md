@@ -1,4 +1,4 @@
-#temp Proxmox tips
+# temp Proxmox tips
 select container > resources > mount point 
 Select tank or flash and add a local path. The file system will show up on the root of the container as whatever you put in the mount point.
 
